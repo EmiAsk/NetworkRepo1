@@ -17,3 +17,16 @@
 Различия:
 master: голый человек -> шапка -> точки, сапоги -> одетый человек
 demo: голый человек -> точки -> шапка, сапоги -> одетый человек
+
+
+Всего 10 коммитов, не считая коммиты, затрагивающие hometask.txt:
+1) init
+2) heat added
+3) boots
+4) README added
+5) dots
+6) fix readme
+7) Merge branch 'boots' into boots_buttons
+8) Merge branch 'buttons' into boots_buttons
+9) Merge branch 'hat'
+10) Merge branch 'boots_buttons'
